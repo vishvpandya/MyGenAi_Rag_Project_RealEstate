@@ -1,11 +1,11 @@
-# python-dotenv
-# streamlit
-# unstructured
-# tiktoken
+python-dotenv
+streamlit
+unstructured
+tiktoken
 # langchain-chroma
 # langchain-groq
 # langchain-community
-# protobuf
+protobuf
 # langchain-huggingface
 # langchain
 
